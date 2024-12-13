@@ -1,0 +1,46 @@
+{
+  "jobs": [
+    {
+      "id": "5f41",
+      "title": "PAMANTASAN NG CABUYAO",
+      "type": "Part-Time",
+      "location": "Cabuyao Laguna",
+      "description": "ADAJSDHF SAJFSAJDF",
+      "salary": "$150K - 175K",
+      "company": {
+        "name": "asd21e12eadas",
+        "description": "daqwdasdqdwas",
+        "contactEmail": "ruthermrcs@gmail.com",
+        "contactPhone": "13923182381"
+      }
+    },
+    {
+      "id": "5873",
+      "title": "asdasda",
+      "type": "Remote",
+      "location": "asdasda",
+      "description": "asda",
+      "salary": "$150K - 175K",
+      "company": {
+        "name": "asd",
+        "description": "sdasda",
+        "contactEmail": "sda@gmail.com",
+        "contactPhone": "asda"
+      }
+    },
+    {
+      "id": "54ff",
+      "title": "Sa puso ko",
+      "type": "Internship",
+      "location": "sa calamba laguna",
+      "description": "sdasdas dhahah",
+      "salary": "$100K - 125K",
+      "company": {
+        "name": "dasdasd",
+        "description": "asdasda",
+        "contactEmail": "dfasdf@gmail.com",
+        "contactPhone": "83838383"
+      }
+    }
+  ]
+}
